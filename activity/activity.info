@@ -1,0 +1,8 @@
+
+[Activity]
+name = Incursion
+activity_version = 1
+bundle_id = org.ceibaljam.Incursiongameceibaljam
+exec = sugar-activity JAMActivityFlash.JAMActivityFlash
+icon = JAMActivityFlash
+show_launcher = yes
